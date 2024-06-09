@@ -1,0 +1,7 @@
+# .gitignore
+/node_modules
+/.idea
+/.env.local.example
+/package-lock.json
+/yarn.lock
+
